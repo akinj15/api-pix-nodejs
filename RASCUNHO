@@ -1,0 +1,12 @@
+## principais endpots usados do gerencianet 
+
+- /oauth/token  POST
+Gera um token de acesso necessario para usar as demais funções.
+
+- /v2/cob  POST
+gera uma cobrança pix sem text id.
+
+- /v2/loc/:id/qrcode GET
+Retorna um qrcode enviando o id no query params
+
+#### https://dev.gerencianet.com.br/docs/api-pix-endpoints
