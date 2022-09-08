@@ -10,3 +10,5 @@ gera uma cobrança pix sem text id.
 Retorna um qrcode enviando o id no query params
 
 #### https://dev.gerencianet.com.br/docs/api-pix-endpoints
+
+##### fonte de estudo --- https://www.youtube.com/watch?v=bo1THXaohU0

@@ -21,7 +21,7 @@ class App {
   
     routes() {
       this.app.use('/cobranca/', router);
-      this.app.use('/webhook(/pix)', router);
+      this.app.use('/webhook(/pix)?', router);
     }
 }
 export default new App().app;
