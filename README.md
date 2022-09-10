@@ -65,4 +65,12 @@ npm run dev
 }
 ~~~
 
+##### INFROMAÇÕES DO .env
+- CLIENT_ID  = e o client id que tem no gerencianet 
+- CLIENT_SECRET = pega junto com o client id na dash do gerencianet
+- HOST = o host da api do gerencianet 
+- CERT = nome do certificado .p12
+
+##### CRIAR UMA PASTA NA RAIZ COM O NOME DE 'certs' para colocar os certificado de produção e homologação
+
 ##### mais informações em https://dev.gerencianet.com.br/docs/api-pix-introducao && https://www.youtube.com/watch?v=bo1THXaohU0
