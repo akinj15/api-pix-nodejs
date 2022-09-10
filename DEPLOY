@@ -1,0 +1,14 @@
+# DEPLOY DA APLICAÇÃO
+
+### SE JA TIVER O REPOSITORIO NO SERVIDOR 
+
+1. fazer o pull no servidor
+2. conferir se ja esta instalado $ npm i
+3. para rodar npm start 
+
+
+### PARA INSTALAR O PROJETO DO ZERO
+
+1. git clone https://git2.hrinfo.com.br/estudos/api-pix-nojejs
+2. npm i 
+3. npm start 
