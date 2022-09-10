@@ -65,6 +65,10 @@ npm run dev
 }
 ~~~
 
+#### end points 
+* /cobranca
+* /webhook/:txid
+
 ##### INFROMAÇÕES DO .env
 - CLIENT_ID  = e o client id que tem no gerencianet 
 - CLIENT_SECRET = pega junto com o client id na dash do gerencianet
